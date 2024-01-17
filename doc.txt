@@ -1,0 +1,70 @@
+fonts----
+         font-family: 'PT Sans', sans-serif;
+
+color---
+ black - #010101
+ ash - #555555
+ yellow - #fcdb00     
+
+ =============
+ xxl
+ xl 
+ lg 
+
+
+ md 
+
+
+ sm 
+ col 
+
+ ======================
+
+
+          xxl/xl/lg       md       sm/col
+
+menu                                20px 
+
+padding    t/b 10px       ""         ""
+
+
+slider-------
+        xxl/xl/lg         md        sm/col
+
+h1         32              32        25
+h2          20             20        20
+p           16             16        16/15
+icon         42            42        35
+
+padding- 100             100         60
+
+feature-----
+        xxl/xl/lg         md        sm/col
+
+pt         100             80         50
+pb        120              100        70
+
+mt         70               50        30
+
+
+h1         32                          25
+p          20                          18
+
+icon       50            50            35
+h2         22            22           
+p
+
+
+contact-------
+       xxl/xl/lg         md        sm/col
+pt      90               70          50
+pb     120               100         70
+
+form-
+pt      40               35/40
+pb      80               70
+
+
+footer------
+           xxl/xl/lg         md        sm/col
+pb           120              100       20 
